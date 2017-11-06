@@ -1,0 +1,6 @@
+D:\Pobrane z netu\programowanie\Podstawy\GamesApp\GamesApp\bin\Debug\GamesApp.exe.config
+D:\Pobrane z netu\programowanie\Podstawy\GamesApp\GamesApp\bin\Debug\GamesApp.exe
+D:\Pobrane z netu\programowanie\Podstawy\GamesApp\GamesApp\bin\Debug\GamesApp.pdb
+D:\Pobrane z netu\programowanie\Podstawy\GamesApp\GamesApp\obj\Debug\GamesApp.csprojResolveAssemblyReference.cache
+D:\Pobrane z netu\programowanie\Podstawy\GamesApp\GamesApp\obj\Debug\GamesApp.exe
+D:\Pobrane z netu\programowanie\Podstawy\GamesApp\GamesApp\obj\Debug\GamesApp.pdb
